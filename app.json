@@ -20,10 +20,23 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.dhranamanthan_expo.MyReactNativeAppuundefinedndefined"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "23910cf9-ae68-48af-afec-5689ac546da7"
+      }
+    },
+    "owner": "dhranamanthan_expo",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/23910cf9-ae68-48af-afec-5689ac546da7"
     }
   }
 }
